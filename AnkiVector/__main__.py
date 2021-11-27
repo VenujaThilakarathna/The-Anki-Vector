@@ -90,7 +90,7 @@ buttons = [
 ANKIVECTOR_STICKER = "CAACAgUAAxkBAAIwfWGg7UllDrKruwqh00JcYyCEKrVBAAKVAwACk9MAAVUCg1HqJDy70CIE"
 
 HELP_STRINGS = f"""
-*Main Commands :* 🤖
+*Main Commands :* [🤖](https://telegra.ph/file/e556a4f992dfe734dba42.jpg)
 
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!

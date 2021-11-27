@@ -8,7 +8,7 @@
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
 ### Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damantha126/The-Anki-Vector.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VenujaThilakarathna/The-Anki-Vector.git)
 
 
 ### Video Tutorial:

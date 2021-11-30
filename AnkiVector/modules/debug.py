@@ -8,7 +8,7 @@ from telethon import events
 from AnkiVector import dispatcher, telethn
 from AnkiVector.modules.helper_funcs.chat_status import dev_plus
 
-DEBUG_MODE = False
+DEBUG_MODE = True
 
 
 @run_async

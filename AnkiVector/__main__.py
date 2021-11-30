@@ -64,7 +64,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = f"""
-*Hellow There, I'm Cozmo Bot
+*Hellow There, I'm Cozmo Bot✨
 
 I'm a Powerfull group manager bot With Cool Modules. Made My @TeamCozmoBot
 hit /help to Find my list of available commands 🕹*
